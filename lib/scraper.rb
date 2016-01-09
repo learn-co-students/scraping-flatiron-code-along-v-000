@@ -25,6 +25,16 @@ class Scraper
       }
     @courses = courses
   end
+  
+  def print_courses
+    make_courses.each{|course|
+      if course.title
+        puts "Title: #{course.title}"
+        puts "\tSchedule: #{course.schedule}"
+        puts "\tDescription: #{course.description}"
+      end
+      }
+  end
 end
 
 
