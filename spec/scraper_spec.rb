@@ -27,6 +27,12 @@ describe "Scraper" do
     end
   end
 
+  # If these tests can be a bit more strict maybe with a regular
+  # expression instead of comparing to the class of String
+  #
+  # Maybe there is no real way to test this since the content
+  # can always change?
+  #
   describe "#make_courses" do 
     it "iterates over the courses array returned by #get_courses and creates a new Course instance out of each array element." do 
       Course.reset_all
