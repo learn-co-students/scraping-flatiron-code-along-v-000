@@ -40,3 +40,5 @@ describe "Scraper" do
   end
 
 end
+
+Scraper.new.print_courses
