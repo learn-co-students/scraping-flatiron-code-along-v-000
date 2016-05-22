@@ -36,8 +36,7 @@ class Scraper
       #value of this method should be a collection of Nokogiri XML elements, each of which
       #describes a course offering. We're going to have to examine the page with the element
       #inspector to find the CSS selector that contains the courses.
-      binding.pry
-      self.get_page.css(".post") - self.get_page.css(".post empty-event")
+      self.get_page.css(".post:not(.empty-event)")
     end
 
 
@@ -46,12 +45,10 @@ class Scraper
       # and giving each course object the correct title, schedule and description attribute
       #that we scraped from the page.
       self.get_courses.each do |post|
-        if post.text != " "
          course = Course.new
          course.title = post.css("h2").text
          course.schedule = post.css(".date").text
          course.description = post.css("p").text
-       end
       end
     end
 
