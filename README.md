@@ -152,8 +152,6 @@ If you scroll down in your terminal, you should see more and more of the HTML do
 
 Okay, we're ready to find the CSS selector that will grab the course offering from the HTML document. How should we go about doing this? Should we guess? Should we manually read the entire HTML document, looking for the HTML elements that contain the course offerings? Nope. We're going to revisit the Flatiron website in the browser and use the developer tools of our browser to inspect the elements.
 
-Click on this link and once again scroll down to the section of the page that lists the course offerings. Right click on any course offering and select "inspect element". You should see something like this in your browser:
-
 ![](http://readme-pics.s3.amazonaws.com/Screen%20Shot%202015-08-20%20at%204.38.49%20PM.png)
 
 Let's take a closer look at the highlighted line in the element inspector:
