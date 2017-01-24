@@ -1,4 +1,3 @@
-require 'pry'
 require 'nokogiri'
 require 'open-uri'
 require_relative './course.rb'
@@ -12,13 +11,17 @@ class Scraper
 
 
   def get_courses
-    
-    get_page.css("h2")
+  get_page.css("article")
   end# of get_courses
 
 
   def make_courses
-
+    get_courses.each do |article|
+      course = Course.new
+      course.title = article.css("h2").text
+      course.schedule = article.css(".date").text
+      course.description = article.css("p").text 
+    end# of do
   end# of make_courses
 
 
@@ -28,12 +31,12 @@ class Scraper
       if course.title
         puts "Title: #{course.title}"
         puts "  Schedule: #{course.schedule}"
-        puts "  Description: #{course.description}"
+        puts "  Description: #{course.description}"+"\n""\n"
       end
     end
   end
-  
-end
+end# of class 
 
+Scraper.new.print_courses
 
 
