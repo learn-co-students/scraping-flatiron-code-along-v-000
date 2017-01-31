@@ -12,6 +12,7 @@ class Scraper
         puts "Title: #{course.title}"
         puts "  Schedule: #{course.schedule}"
         puts "  Description: #{course.description}"
+        #binding.pry
       end
     end
   end
@@ -41,3 +42,4 @@ end
 #Scraper.new.get_page
 #Scraper.new.get_courses
 #Scraper.new.make_courses
+#Scraper.new.print_courses
