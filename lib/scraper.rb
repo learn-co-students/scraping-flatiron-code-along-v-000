@@ -25,4 +25,4 @@ class Scraper
   end
 end
 #binding.pry
-Scraper.new.get_page
+#Scraper.new.get_page
