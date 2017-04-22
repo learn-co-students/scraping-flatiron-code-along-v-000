@@ -11,17 +11,15 @@ class Scraper
   end
 
   def get_courses
-    get_page.css(".post")
+    self.get_page.css(".post")
   end
 
   def make_courses
-    new_course = Course.new
-
-    #binding.pry
-    get_courses.each do |course|
-      new_course.title=course.css("h2").text
-      new_course.schedule=course.css("em").text
-      new_course.description=course.css("p").text
+    self.get_courses.each do |post|
+      course = Course.new
+      course.title = post.css("h2").text
+      course.schedule = post.css(".date").text
+      course.description = post.css("p").text
     end
   end
 
@@ -37,3 +35,5 @@ class Scraper
   end
 
 end
+
+Scraper.new.print_courses
