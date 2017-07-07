@@ -6,11 +6,11 @@ require_relative './course.rb'
 
 class Scraper
 
-  def get_page
+  def get_page # retrieves the HTML contents of the web page
     Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scraping/courses"))
   end
 
-  def get_courses
+  def get_courses # returns the collection of elements identified by the class selector .post
     self.get_page.css(".post")
   end
 
