@@ -6,8 +6,7 @@ require_relative './course.rb'
 class Scraper
   attr_accessor :doc, :courses
   def get_page
-    html = open("http://learn-co-curriculum.github.io/site-for-scraping/courses")
-    @doc = Nokogiri::HTML(html)
+    doc = Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scraping/courses"))
   end
 
   def get_courses
@@ -15,11 +14,13 @@ class Scraper
   end
 
   def make_courses
-    self.get_courses.collect do |course_offering|
-      course = Course.new
-      course.title = course_offering.css("h2").text
-      course.description = course_offering.css("p").text
-      course.schedule = course_offering.css(".date").text
+    self.get_courses.each do |course_offering|
+      if course_offering.css("h2").text != ""
+        course = Course.new
+        course.title = course_offering.css("h2").text
+        course.description = course_offering.css("p").text
+        course.schedule = course_offering.css(".date").text
+      end
     end
   end
 
@@ -34,3 +35,6 @@ class Scraper
     end
   end
 end
+
+
+Scraper.new.print_courses
