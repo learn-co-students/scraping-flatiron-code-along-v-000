@@ -1,0 +1,43 @@
+=> [[32m#<Course:0x000000008f9198[0m
+  @description[32m=[0m
+   [32m"An intensive, Ruby and Javascript course that teaches the skills necessary to start a career as a full-stack software developer."[0m[0m,
+  @schedule[32m=[0m[32m"Full-Time"[0m[0m,
+  @title[32m=[0m[32m"Web Development Immersive"[0m[0m[32m>[0m,
+ [32m#<Course:0x000000008f2a50[0m
+  @description[32m=[0m
+   [32m"An in-depth course on the iOS ecosystem that begins with Objective-C and Swift, explores popular iOS frameworks, and culminates in a client project with a local tech company."[0m[0m,
+  @schedule[32m=[0m[32m"Full-Time"[0m[0m,
+  @title[32m=[0m[32m"iOS Development Immersive"[0m[0m[32m>[0m,
+ [32m#<Course:0x00000000877058[0m
+  @description[32m=[0m
+   [32m"In partnership with New York City, this free program trains NYC residents without college degrees for careers in web development."[0m[0m,
+  @schedule[32m=[0m[32m"Full-Time"[0m[0m,
+  @title[32m=[0m[32m"NYC Web Development Fellowship"[0m[0m[32m>[0m,
+ [32m#<Course:0x00000000874a10[0m
+  @description[32m=[0m
+   [32m"An introductory course designed to teach students to launch fully responsive websites from scratch using HTML, CSS, JavaScript, and jQuery."[0m[0m,
+  @schedule[32m=[0m[32m"Part-Time"[0m[0m,
+  @title[32m=[0m[32m"Introduction to Front-End Development"[0m[0m[32m>[0m,
+ [32m#<Course:0x00000000871608[0m
+  @description[32m=[0m
+   [32m"An advanced course that trains people with at least one year of software development experience in the skills and tools necessary to work as Android Developers."[0m[0m,
+  @schedule[32m=[0m[32m"Part-Time"[0m[0m,
+  @title[32m=[0m[32m"Android for Developers"[0m[0m[32m>[0m,
+ [32m#<Course:0x0000000086e958[0m
+  @description[32m=[0m
+   [32m"A part-time course that provides students with the skills they need to make data meaningful."[0m[0m,
+  @schedule[32m=[0m[32m"Part-Time"[0m[0m,
+  @title[32m=[0m[32m"Introduction to Data Science"[0m[0m[32m>[0m,
+ [32m#<Course:0x000000008dfab8[0m
+  @description[32m=[0m
+   [32m"This Beginners workshop teaches students the fundamentals of electricty, reading circuit diagrams, soldering, and how to build an Atari Punk Console (sound generating circuit) from scratch."[0m[0m,
+  @schedule[32m=[0m[32m"WORKSHOP"[0m[0m,
+  @title[32m=[0m[32m"DIY Electronics - Build Your Own Sound Generating Circuit"[0m[0m[32m>[0m,
+ [32m#<Course:0x000000008d4c30[0m
+  @description[32m=[0m[32m""[0m[0m,
+  @schedule[32m=[0m[32m""[0m[0m,
+  @title[32m=[0m[32m""[0m[0m[32m>[0m,
+ [32m#<Course:0x000000008cd778[0m
+  @description[32m=[0m[32m""[0m[0m,
+  @schedule[32m=[0m[32m""[0m[0m,
+  @title[32m=[0m[32m""[0m[0m[32m>[0m]
