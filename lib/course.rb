@@ -2,6 +2,8 @@ require 'pry'
 
 # create a class Course 
 class Course 
+# create attr_accessor for title 
+  attr_accessor :title, :schedule, :description
 # create instance methods for:
   def initialize
     
