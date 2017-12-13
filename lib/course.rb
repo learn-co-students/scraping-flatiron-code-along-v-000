@@ -9,12 +9,11 @@ class Course
     @courses = []
   end 
   
-  def add_courses(course)
-    @courses << course
-  end 
 # create class method - self.all
   def self.all
     # this method returns an array of all instances of Course class 
+    
+    @courses << self 
     @courses
   end 
   
