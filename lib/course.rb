@@ -5,19 +5,16 @@ class Course
 # create attr_accessor for title 
   attr_accessor :title, :schedule, :description
 # create instance methods for:
-  def initialize(title, schedule, description)
-    @title = title
-    @schedule = schedule
-    @description = description
-    @courses = []
+  def initialize
+    
   end 
   
 # create class method - self.all
   def self.all
     # this method returns an array of all instances of Course class 
-    binding.pry
+    @courses = []
     @courses << self 
-    @courses
+   
   end 
   
   def self.reset_all 
