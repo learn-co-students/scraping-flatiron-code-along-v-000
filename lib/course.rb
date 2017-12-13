@@ -7,13 +7,12 @@ class Course
 # create instance methods for:
   def initialize
     @courses = []
+    @courses << self
   end 
   
 # create class method - self.all
   def self.all
     # this method returns an array of all instances of Course class 
-    
-    @courses << self 
     @courses
   end 
   
