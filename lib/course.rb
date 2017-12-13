@@ -14,8 +14,7 @@ class Course
 # create class method - self.all
   def self.all
     # this method returns an array of all instances of Course class 
-   @@all
-   
+   @@all 
   end 
   
   def self.reset_all 
