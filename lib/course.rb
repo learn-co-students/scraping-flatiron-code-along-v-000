@@ -17,5 +17,9 @@ class Course
     # this method returns an array of all instances of Course class 
     @courses
   end 
+  
+  def self.reset_all 
+    @courses = []
+  end 
 
 end 
