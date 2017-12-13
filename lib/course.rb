@@ -6,24 +6,16 @@ class Course
   attr_accessor :title, :schedule, :description
 # create instance methods for:
   def initialize
-    
+    @courses = []
   end 
-  # - title 
-  def title
-    
+  
+  def add_courses(course)
+    @courses << course
   end 
-  # - schedule
-  def schedule
-    
-  end 
-  # - description 
-  def description 
-    
-  end 
-
 # create class method - self.all
   def self.all
-    
+    # this method returns an array of all instances of Course class 
+    @courses
   end 
 
 end 
