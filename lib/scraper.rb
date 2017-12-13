@@ -23,6 +23,8 @@ class Scraper
 
     def get_courses
       # return an array of Nokogiri elements representing courses
+      binding.pry
+      doc.css(".posts-holder h2")
     end 
 end
 
