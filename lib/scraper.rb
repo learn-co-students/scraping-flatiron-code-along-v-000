@@ -18,7 +18,11 @@ class Scraper
   
     def get_page
       # this method uses Nokogiri to get the HTML from a web page 
-      doc = Nokogiri::HTML(html)
+      doc = Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scraping/courses"))
+    end 
+
+    def get_courses
+      # return an array of Nokogiri elements representing courses
     end 
 end
 
