@@ -32,7 +32,7 @@ class Scraper
     end
   end
 
-    def print_courses
+  def print_courses
     self.make_courses
     Course.all.each do |course|
       if course.title
@@ -45,4 +45,4 @@ class Scraper
 
 end
 
-Scraper.new.get_page
+Scraper.new.print_courses
