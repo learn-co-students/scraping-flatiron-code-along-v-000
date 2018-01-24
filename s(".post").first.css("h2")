@@ -1,0 +1,59 @@
+=> [1;34m#(Element:0xbacf84 {[0m
+  name = [32m"article"[0m[0m,
+  attributes = [
+    [1;34m#(Attr:0xbacee4 {[0m name = [32m"class"[0m[0m, value = [32m"post"[0m[0m })],
+  children = [
+    [1;34m#(Text [0m[32m" "[0m[0m),
+    [1;34m#(Element:0xba1468 {[0m
+      name = [32m"img"[0m[0m,
+      attributes = [
+        [1;34m#(Attr:0xba13a0 {[0m
+          name = [32m"src"[0m[0m,
+          value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/web_app.png"[0m[0m
+          })]
+      }),
+    [1;34m#(Text [0m[32m" "[0m[0m),
+    [1;34m#(Element:0xb9b810 {[0m
+      name = [32m"h2"[0m[0m,
+      children = [ [1;34m#(Text [0m[32m"Web Development Immersive"[0m[0m)]
+      }),
+    [1;34m#(Text [0m[32m" "[0m[0m),
+    [1;34m#(Element:0xb9ad84 {[0m
+      name = [32m"em"[0m[0m,
+      attributes = [
+        [1;34m#(Attr:0xb9acd0 {[0m name = [32m"class"[0m[0m, value = [32m"date"[0m[0m })],
+      children = [ [1;34m#(Text [0m[32m"Full-Time"[0m[0m)]
+      }),
+    [1;34m#(Text [0m[32m" "[0m[0m),
+    [1;34m#(Element:0xb97080 {[0m
+      name = [32m"p"[0m[0m,
+      children = [
+        [1;34m#(Text [0m[32m"An intensive, Ruby and Javascript course that teaches the skills necessary to start a career as a full-stack software developer."[0m[0m)]
+      }),
+    [1;34m#(Text [0m[32m" "[0m[0m),
+    [1;34m#(Element:0xb96658 {[0m
+      name = [32m"div"[0m[0m,
+      attributes = [
+        [1;34m#(Attr:0xb96478 {[0m
+          name = [32m"class"[0m[0m,
+          value = [32m"button-centering-container"[0m[0m
+          })],
+      children = [
+        [1;34m#(Text [0m[32m" "[0m[0m),
+        [1;34m#(Element:0xb7dacc {[0m
+          name = [32m"a"[0m[0m,
+          attributes = [
+            [1;34m#(Attr:0xb7d9dc {[0m
+              name = [32m"href"[0m[0m,
+              value = [32m"/web"[0m[0m
+              }),
+            [1;34m#(Attr:0xb7d978 {[0m
+              name = [32m"class"[0m[0m,
+              value = [32m"btn-more"[0m[0m
+              })],
+          children = [ [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+          }),
+        [1;34m#(Text [0m[32m" "[0m[0m)]
+      }),
+    [1;34m#(Text [0m[32m" "[0m[0m)]
+  })
