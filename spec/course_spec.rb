@@ -41,7 +41,3 @@ describe "Course" do
     end
   end
 end
-
-
-
-
