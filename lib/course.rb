@@ -1,15 +1,16 @@
-class Course
-  attr_accessor :title, :schedule, :description
+class Podcast
 
-  @@all = []
+    attr_accessor :name, :rank, :summary
 
-  def initialize
-    @@all << self
-  end
+      @@all = []
 
-  def self.all
-    @@all
-  end
+    def initialize
+      @@all
+    end
+
+    def self.all
+      @@all << self
+    end
 
   def self.reset_all
     @@all.clear
