@@ -1,0 +1,2747 @@
+=> [1;34m#(Document:0x985a94 {[0m
+  name = [32m"document"[0m[0m,
+  children = [
+    [1;34m#(DTD:0xdfa00c {[0m name = [32m"html"[0m[0m }),
+    [1;34m#(Element:0xe0fa4c {[0m
+      name = [32m"html"[0m[0m,
+      children = [
+        [1;34m#(Text [0m[32m" "[0m[0m),
+        [1;34m#(Element:0xe1576c {[0m
+          name = [32m"head"[0m[0m,
+          children = [
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xe24a50 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xe242a8 {[0m
+                  name = [32m"charset"[0m[0m,
+                  value = [32m"utf-8"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd77698 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd769f0 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"viewport"[0m[0m
+                  }),
+                [1;34m#(Attr:0xd769dc {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"width=device-width, initial-scale=1.0"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xe21d00 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xe21030 {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"IE=edge,chrome=1"[0m[0m
+                  }),
+                [1;34m#(Attr:0xe2101c {[0m
+                  name = [32m"html-equiv"[0m[0m,
+                  value = [32m"X-UA-Compatible"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xdf39b4 {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xdf2af0 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"description"[0m[0m
+                  }),
+                [1;34m#(Attr:0xdf2adc {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"Learn to love code. The Flatiron School trains passionate, creative people in web and mobile development. Our Web and iOS Immersive courses are 12 weeks, full-time, and prepare students for careers as software developers."[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xdc9718 {[0m
+              name = [32m"title"[0m[0m,
+              children = [ [1;34m#(Text [0m[32m"Course Listing | Flatiron School"[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xdabce0 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xdab2b8 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"stylesheets/all.css"[0m[0m
+                  }),
+                [1;34m#(Attr:0xdab2a4 {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"stylesheet"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd83970 {[0m
+              name = [32m"script"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd78bec {[0m
+                  name = [32m"src"[0m[0m,
+                  value = [32m"javascripts/all.js"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd60614 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd5b1dc {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"canonical"[0m[0m
+                  }),
+                [1;34m#(Attr:0xd5b1c8 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"http://flatironschool.com/courses.html"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd37084 {[0m
+              name = [32m"link"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd364e0 {[0m
+                  name = [32m"rel"[0m[0m,
+                  value = [32m"shortcut icon"[0m[0m
+                  }),
+                [1;34m#(Attr:0xd364cc {[0m
+                  name = [32m"type"[0m[0m,
+                  value = [32m"image/x-icon"[0m[0m
+                  }),
+                [1;34m#(Attr:0xd36468 {[0m
+                  name = [32m"href"[0m[0m,
+                  value = [32m"/images/favicon.ico"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xcfb05c {[0m
+              name = [32m"meta"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xcf5cc4 {[0m
+                  name = [32m"name"[0m[0m,
+                  value = [32m"google-site-verification"[0m[0m
+                  }),
+                [1;34m#(Attr:0xcf5cb0 {[0m
+                  name = [32m"content"[0m[0m,
+                  value = [32m"IyKREnTZw16bmZ3mSIACjTF7n1smFdMOkjJS2dtwLl8"[0m[0m
+                  })]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m)]
+          }),
+        [1;34m#(Text [0m[32m" "[0m[0m),
+        [1;34m#(Element:0xcd2a80 {[0m
+          name = [32m"body"[0m[0m,
+          children = [
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xcc5164 {[0m
+              name = [32m"div"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xcbfe94 {[0m
+                  name = [32m"class"[0m[0m,
+                  value = [32m"wrapper"[0m[0m
+                  })],
+              children = [
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xca83e8 {[0m
+                  name = [32m"header"[0m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0xca588c {[0m
+                      name = [32m"id"[0m[0m,
+                      value = [32m"header"[0m[0m
+                      })],
+                  children = [
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xc8bae0 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xc8a884 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"nav-holder holder"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xa48864 {[0m
+                          name = [32m"strong"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xa45ec0 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"logo"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Element:0xa2f288 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xa2e568 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"/"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0x9fcacc {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x9f5f24 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"images/logo.png"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0x9f5f10 {[0m
+                                      name = [32m"alt"[0m[0m,
+                                      value = [32m"The Flatiron School"[0m[0m
+                                      })]
+                                  })]
+                              })]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0x99113c {[0m
+                          name = [32m"nav"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0x990430 {[0m
+                              name = [32m"id"[0m[0m,
+                              value = [32m"nav"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x838268 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x8146c4 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"#"[0m[0m
+                                  }),
+                                [1;34m#(Attr:0x8146b0 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"opener"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0x6ec620 {[0m name = [32m"span"[0m[0m })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x6cb880 {[0m
+                              name = [32m"div"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xdaff0c {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"drop"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd449b4 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xca3e4c {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"drop-holder"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xe15cf8 {[0m
+                                      name = [32m"ul"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xe15118 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"top-nav"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xdea418 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xde61ec {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"active hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xdc5708 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xdc4e5c {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"http://go.flatironschool.com/apply"[0m[0m
+                                                  }),
+                                                [1;34m#(Attr:0xdc4e48 {[0m
+                                                  name = [32m"target"[0m[0m,
+                                                  value = [32m"_blank"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Apply"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xd614ec {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xd60a4c {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xd3f02c {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd3e2f8 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/hire"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Partner"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xd00f20 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xcfbbec {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xce0db0 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xce043c {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"http://precollege.flatironschool.com"[0m[0m
+                                                  }),
+                                                [1;34m#(Attr:0xce0428 {[0m
+                                                  name = [32m"target"[0m[0m,
+                                                  value = [32m"_blank"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Precollege"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xc7ec78 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xc7decc {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xa392b0 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xa37bf4 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"http://blog.flatironschool.com/"[0m[0m
+                                                  }),
+                                                [1;34m#(Attr:0xa37bb8 {[0m
+                                                  name = [32m"target"[0m[0m,
+                                                  value = [32m"_blank"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Blog"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0x9c5a54 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x9c499c {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0x890940 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0x88494c {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/contact"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Contact"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0x79f48c {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x6ee704 {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"hide_mobile"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xd9bf5c {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd9b840 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/careers"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"We're hiring!"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xe00470 {[0m
+                                      name = [32m"ul"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xdfb218 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"main-nav mega-menu-nav"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xdcd598 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          children = [
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xdb8ecc {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xdb815c {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/school"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"The School"[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xd6c8ec {[0m
+                                              name = [32m"div"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd68ee0 {[0m
+                                                  name = [32m"class"[0m[0m,
+                                                  value = [32m"megamenu"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xd3e58c {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xd3d6f0 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column quote-container"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xd0bb14 {[0m
+                                                      name = [32m"div"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xd0ae94 {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"tab-content"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xcda424 {[0m
+                                                          name = [32m"div"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0xcd783c {[0m
+                                                              name = [32m"id"[0m[0m,
+                                                              value = [32m"tab7"[0m[0m
+                                                              })],
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                            [1;34m#(Element:0xc95b94 {[0m
+                                                              name = [32m"blockquote"[0m[0m,
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                [1;34m#(Element:0xc7702c {[0m
+                                                                  name = [32m"q"[0m[0m,
+                                                                  children = [
+                                                                    [1;34m#(Text [0m[32m"\u201CBest of luck to the new @FlatironSchool group. Looking back, you'll categorize your life as before today and after today.\u201D"[0m[0m)]
+                                                                  }),
+                                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                [1;34m#(Element:0xa2d640 {[0m
+                                                                  name = [32m"cite"[0m[0m,
+                                                                  children = [
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0x9f3ea4 {[0m
+                                                                      name = [32m"a"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0x9f275c {[0m
+                                                                          name = [32m"href"[0m[0m,
+                                                                          value = [32m"https://twitter.com/mcnameekm/status/298577378274336772"[0m[0m
+                                                                          }),
+                                                                        [1;34m#(Attr:0x9f2748 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"twitter"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                        [1;34m#(Element:0x80546c {[0m
+                                                                          name = [32m"span"[0m[0m,
+                                                                          attributes = [
+                                                                            [1;34m#(Attr:0x7f7510 {[0m
+                                                                              name = [32m"class"[0m[0m,
+                                                                              value = [32m"icon-twitter"[0m[0m
+                                                                              })]
+                                                                          }),
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0xca3c58 {[0m
+                                                                      name = [32m"span"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0xca3154 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"photo"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Element:0xe100f0 {[0m
+                                                                          name = [32m"span"[0m[0m,
+                                                                          attributes = [
+                                                                            [1;34m#(Attr:0xe0f204 {[0m
+                                                                              name = [32m"data-picture"[0m[0m,
+                                                                              value = [32m""[0m[0m
+                                                                              }),
+                                                                            [1;34m#(Attr:0xe0f1f0 {[0m
+                                                                              name = [32m"data-alt"[0m[0m,
+                                                                              value = [32m"image description"[0m[0m
+                                                                              })],
+                                                                          children = [
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xd90274 {[0m
+                                                                              name = [32m"span"[0m[0m,
+                                                                              attributes = [
+                                                                                [1;34m#(Attr:0xd8e9d8 {[0m
+                                                                                  name = [32m"data-src"[0m[0m,
+                                                                                  value = [32m"images/kevin_mcnamee.png"[0m[0m
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xd3d2f4 {[0m
+                                                                              name = [32m"span"[0m[0m,
+                                                                              attributes = [
+                                                                                [1;34m#(Attr:0xd3c82c {[0m
+                                                                                  name = [32m"data-src"[0m[0m,
+                                                                                  value = [32m"images/kevin_mcnamee.png"[0m[0m
+                                                                                  }),
+                                                                                [1;34m#(Attr:0xd3c818 {[0m
+                                                                                  name = [32m"data-media"[0m[0m,
+                                                                                  value = [32m"(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"[0m[0m
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Comment [0m[32m"[if (lt IE 9) & (!IEMobile)]><span data-src=\"images/kevin_mcnamee.png\"></span><![endif]"[0m[0m),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xca0d8c {[0m
+                                                                              name = [32m"noscript"[0m[0m,
+                                                                              children = [
+                                                                                [1;34m#(Element:0xc7ddf0 {[0m
+                                                                                  name = [32m"img"[0m[0m,
+                                                                                  attributes = [
+                                                                                    [1;34m#(Attr:0xc7d350 {[0m
+                                                                                      name = [32m"src"[0m[0m,
+                                                                                      value = [32m"images/kevin_mcnamee.png"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xc7d33c {[0m
+                                                                                      name = [32m"width"[0m[0m,
+                                                                                      value = [32m"41"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xc7d300 {[0m
+                                                                                      name = [32m"height"[0m[0m,
+                                                                                      value = [32m"40"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xc7d2ec {[0m
+                                                                                      name = [32m"alt"[0m[0m,
+                                                                                      value = [32m"image description"[0m[0m
+                                                                                      })]
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                          }),
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0x6f2c3c {[0m
+                                                                      name = [32m"strong"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0x6ecb98 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"name"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Text [0m[32m"@mcnameekm"[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                  }),
+                                                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                              }),
+                                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xdc8944 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xdc5bf4 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-4 menu-holder"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xd88e34 {[0m
+                                                      name = [32m"ul"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xd88114 {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"submenu"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xd4f080 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xd3638c {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xd33678 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/school#about"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"About"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xce0fb8 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xcc4a0c {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xcbf4bc {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/team"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"The Team"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xa4482c {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xa36790 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xa35548 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/employers"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Employers"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x9c0a18 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0x9853f0 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0x97babc {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/faq"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"FAQ"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x7cd404 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0x6d518c {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0x6d2130 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/careers"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Careers at Flatiron"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xdd9384 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xdd5af4 {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xd9c90c {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd9c074 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/school#about"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"About"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xd4f008 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xd4e018 {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xd2954c {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd28bec {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/team"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"The Team"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xce9334 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xce8074 {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xcbf4a8 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xcbecec {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/employers"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Employers"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xc7d2d8 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0xc7775c {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0xa36768 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xa356b0 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/faq"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"FAQ"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0x9eb59c {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x9ea520 {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Element:0x990994 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0x9857c4 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/careers"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Careers at Flatiron"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0x7dfed8 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          children = [
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xd775bc {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd76acc {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/courses"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Courses"[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xe159b0 {[0m
+                                              name = [32m"div"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xe14efc {[0m
+                                                  name = [32m"class"[0m[0m,
+                                                  value = [32m"megamenu"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xdd9168 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xdd5018 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column quote-container"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xd918b8 {[0m
+                                                      name = [32m"div"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xd90d28 {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"tab-content"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xd5604c {[0m
+                                                          name = [32m"div"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0xd531a8 {[0m
+                                                              name = [32m"id"[0m[0m,
+                                                              value = [32m"tab7"[0m[0m
+                                                              })],
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                            [1;34m#(Element:0xd2238c {[0m
+                                                              name = [32m"blockquote"[0m[0m,
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                [1;34m#(Element:0xd00bec {[0m
+                                                                  name = [32m"q"[0m[0m,
+                                                                  children = [
+                                                                    [1;34m#(Text [0m[32m"\u201CWhat I love most about @FlatironSchool grads: not only are they great programmers, but they are great bloggers and presenters.\u201D"[0m[0m)]
+                                                                  }),
+                                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                [1;34m#(Element:0xcd7620 {[0m
+                                                                  name = [32m"cite"[0m[0m,
+                                                                  children = [
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0xcb1bb4 {[0m
+                                                                      name = [32m"a"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0xcb0d18 {[0m
+                                                                          name = [32m"href"[0m[0m,
+                                                                          value = [32m"https://twitter.com/debbiemadden200/status/345546073751822340"[0m[0m
+                                                                          }),
+                                                                        [1;34m#(Attr:0xcb0cf0 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"twitter"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                        [1;34m#(Element:0xa2f3b4 {[0m
+                                                                          name = [32m"span"[0m[0m,
+                                                                          attributes = [
+                                                                            [1;34m#(Attr:0xa2e0cc {[0m
+                                                                              name = [32m"class"[0m[0m,
+                                                                              value = [32m"icon-twitter"[0m[0m
+                                                                              })]
+                                                                          }),
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0x9b0938 {[0m
+                                                                      name = [32m"span"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0x9a1140 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"photo"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Element:0x7f5184 {[0m
+                                                                          name = [32m"span"[0m[0m,
+                                                                          attributes = [
+                                                                            [1;34m#(Attr:0x7f41f8 {[0m
+                                                                              name = [32m"data-picture"[0m[0m,
+                                                                              value = [32m""[0m[0m
+                                                                              }),
+                                                                            [1;34m#(Attr:0x7f41e4 {[0m
+                                                                              name = [32m"data-alt"[0m[0m,
+                                                                              value = [32m"image description"[0m[0m
+                                                                              })],
+                                                                          children = [
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xe27b24 {[0m
+                                                                              name = [32m"span"[0m[0m,
+                                                                              attributes = [
+                                                                                [1;34m#(Attr:0xe26490 {[0m
+                                                                                  name = [32m"data-src"[0m[0m,
+                                                                                  value = [32m"images/debbie_madden.png"[0m[0m
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xdc9e98 {[0m
+                                                                              name = [32m"span"[0m[0m,
+                                                                              attributes = [
+                                                                                [1;34m#(Attr:0xdc8da4 {[0m
+                                                                                  name = [32m"data-src"[0m[0m,
+                                                                                  value = [32m"images/debbie_madden.png"[0m[0m
+                                                                                  }),
+                                                                                [1;34m#(Attr:0xdc8d7c {[0m
+                                                                                  name = [32m"data-media"[0m[0m,
+                                                                                  value = [32m"(-webkit-min-device-pixel-ratio:1.5), (min-resolution:1.5dppx)"[0m[0m
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Comment [0m[32m"[if (lt IE 9) & (!IEMobile)]><span data-src=\"images/debbie_madden.png\"></span><![endif]"[0m[0m),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                            [1;34m#(Element:0xd22170 {[0m
+                                                                              name = [32m"noscript"[0m[0m,
+                                                                              children = [
+                                                                                [1;34m#(Element:0xd008f4 {[0m
+                                                                                  name = [32m"img"[0m[0m,
+                                                                                  attributes = [
+                                                                                    [1;34m#(Attr:0xcfb8e0 {[0m
+                                                                                      name = [32m"src"[0m[0m,
+                                                                                      value = [32m"images/debbie_madden.png"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xcfb8cc {[0m
+                                                                                      name = [32m"width"[0m[0m,
+                                                                                      value = [32m"41"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xcfb8b8 {[0m
+                                                                                      name = [32m"height"[0m[0m,
+                                                                                      value = [32m"40"[0m[0m
+                                                                                      }),
+                                                                                    [1;34m#(Attr:0xcfb890 {[0m
+                                                                                      name = [32m"alt"[0m[0m,
+                                                                                      value = [32m"image description"[0m[0m
+                                                                                      })]
+                                                                                  })]
+                                                                              }),
+                                                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                          }),
+                                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                                    [1;34m#(Element:0x96ae10 {[0m
+                                                                      name = [32m"strong"[0m[0m,
+                                                                      attributes = [
+                                                                        [1;34m#(Attr:0x969380 {[0m
+                                                                          name = [32m"class"[0m[0m,
+                                                                          value = [32m"name"[0m[0m
+                                                                          })],
+                                                                      children = [
+                                                                        [1;34m#(Text [0m[32m"@debbiemadden200"[0m[0m)]
+                                                                      }),
+                                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                                  }),
+                                                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                              }),
+                                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xd87a0c {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xd86bc0 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-4 menu-holder"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xe0f63c {[0m
+                                                      name = [32m"ul"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xe0e50c {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"submenu"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xdb9c64 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xda4f44 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xda4378 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/courses"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Course Listing"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xd4ff58 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xd3de84 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xd3d484 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/web"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Web Development"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xcf32bc {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xce2f70 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xce2674 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/ios"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"iOS Development"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xc9417c {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xc7f024 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xc7e610 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/frontend"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Intro to Front End"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x9ff830 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0x9f13d4 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0x9f00b0 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/data-science"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Intro to Data Science"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x85e440 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0x7f7b28 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0x7f4630 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/diy-electronics"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"DIY Electronics"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xd44234 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xe2679c {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xe25bbc {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/nycfellowship"[0m[0m
+                                                                  }),
+                                                                [1;34m#(Attr:0xe25ba8 {[0m
+                                                                  name = [32m"target"[0m[0m,
+                                                                  value = [32m"_blank"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Fellowship"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0xd579ec {[0m
+                                          name = [32m"li"[0m[0m,
+                                          children = [
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xd46890 {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd3f84c {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/events"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Events"[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0xd050d4 {[0m
+                                              name = [32m"div"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0xd013a8 {[0m
+                                                  name = [32m"class"[0m[0m,
+                                                  value = [32m"megamenu"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xcd7b34 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xcd6db0 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-3"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xc98768 {[0m
+                                                      name = [32m"a"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xc95b30 {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"event"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0xc95b08 {[0m
+                                                          name = [32m"href"[0m[0m,
+                                                          value = [32m"http://www.meetup.com/Ruby-Project-Night-NYC/events/222354716/"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0xc95ae0 {[0m
+                                                          name = [32m"target"[0m[0m,
+                                                          value = [32m"_blank"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x9fc054 {[0m
+                                                          name = [32m"em"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0x9f3c10 {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"date"[0m[0m
+                                                              })],
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"08.17.15"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x961108 {[0m
+                                                          name = [32m"span"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0x85acc8 {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"ico icon-svg_03"[0m[0m
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xdaec88 {[0m
+                                                          name = [32m"h2"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"Ruby Project Night"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xe0f268 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xe0e214 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-3"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xdc5ce4 {[0m
+                                                      name = [32m"a"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xdc5000 {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"event"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0xdc4fec {[0m
+                                                          name = [32m"href"[0m[0m,
+                                                          value = [32m"http://www.meetup.com/Flatiron-School-Presents/"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0xdc4fd8 {[0m
+                                                          name = [32m"target"[0m[0m,
+                                                          value = [32m"_blank"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xd3f374 {[0m
+                                                          name = [32m"em"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0xd3e08c {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"date"[0m[0m
+                                                              })],
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"08.18.15"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xcf2998 {[0m
+                                                          name = [32m"span"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0xcedf74 {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"ico icon-svg_05"[0m[0m
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xcad708 {[0m
+                                                          name = [32m"h2"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"Flatiron School Students Present"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xa35854 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xa3497c {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-3"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0x9ed734 {[0m
+                                                      name = [32m"a"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0x96bc5c {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"event"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0x96bc34 {[0m
+                                                          name = [32m"href"[0m[0m,
+                                                          value = [32m"http://www.meetup.com/Flatiron-School-Presents/"[0m[0m
+                                                          }),
+                                                        [1;34m#(Attr:0x96bbd0 {[0m
+                                                          name = [32m"target"[0m[0m,
+                                                          value = [32m"_blank"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0x7ca858 {[0m
+                                                          name = [32m"em"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0x7a63e0 {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"date"[0m[0m
+                                                              })],
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"08.25.15"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xe2412c {[0m
+                                                          name = [32m"span"[0m[0m,
+                                                          attributes = [
+                                                            [1;34m#(Attr:0xe21648 {[0m
+                                                              name = [32m"class"[0m[0m,
+                                                              value = [32m"ico icon-svg_05"[0m[0m
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xdd9474 {[0m
+                                                          name = [32m"h2"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Text [0m[32m"Flatiron School Students Present"[0m[0m)]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                                [1;34m#(Element:0xd83df8 {[0m
+                                                  name = [32m"div"[0m[0m,
+                                                  attributes = [
+                                                    [1;34m#(Attr:0xd82f70 {[0m
+                                                      name = [32m"class"[0m[0m,
+                                                      value = [32m"column col-4 menu-holder"[0m[0m
+                                                      })],
+                                                  children = [
+                                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                                    [1;34m#(Element:0xd3e0dc {[0m
+                                                      name = [32m"ul"[0m[0m,
+                                                      attributes = [
+                                                        [1;34m#(Attr:0xd3d3bc {[0m
+                                                          name = [32m"class"[0m[0m,
+                                                          value = [32m"submenu"[0m[0m
+                                                          })],
+                                                      children = [
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xcfbbb0 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xcf2844 {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xcf2038 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/events"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Upcoming Events"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                                        [1;34m#(Element:0xca16b0 {[0m
+                                                          name = [32m"li"[0m[0m,
+                                                          children = [
+                                                            [1;34m#(Element:0xc90fcc {[0m
+                                                              name = [32m"a"[0m[0m,
+                                                              attributes = [
+                                                                [1;34m#(Attr:0xc8db60 {[0m
+                                                                  name = [32m"href"[0m[0m,
+                                                                  value = [32m"/guestspeakers"[0m[0m
+                                                                  })],
+                                                              children = [
+                                                                [1;34m#(Text [0m[32m"Guest Speakers"[0m[0m)]
+                                                              })]
+                                                          }),
+                                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                      }),
+                                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                                  }),
+                                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                                              }),
+                                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m),
+                                        [1;34m#(Element:0x99be48 {[0m
+                                          name = [32m"li"[0m[0m,
+                                          attributes = [
+                                            [1;34m#(Attr:0x991f4c {[0m
+                                              name = [32m"class"[0m[0m,
+                                              value = [32m"mobile_subnav"[0m[0m
+                                              })],
+                                          children = [
+                                            [1;34m#(Text [0m[32m" "[0m[0m),
+                                            [1;34m#(Element:0x7f434c {[0m
+                                              name = [32m"a"[0m[0m,
+                                              attributes = [
+                                                [1;34m#(Attr:0x7f3780 {[0m
+                                                  name = [32m"href"[0m[0m,
+                                                  value = [32m"/guestspeakers"[0m[0m
+                                                  })],
+                                              children = [
+                                                [1;34m#(Text [0m[32m"Guest Speakers"[0m[0m)]
+                                              })]
+                                          }),
+                                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xdf6b78 {[0m
+                  name = [32m"main"[0m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0xdf311c {[0m
+                      name = [32m"id"[0m[0m,
+                      value = [32m"main"[0m[0m
+                      })],
+                  children = [
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xdcc8c8 {[0m
+                      name = [32m"section"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xdc9a74 {[0m
+                          name = [32m"id"[0m[0m,
+                          value = [32m"hero"[0m[0m
+                          }),
+                        [1;34m#(Attr:0xdc9a4c {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"block"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xd8ebf4 {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xd89dac {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"featured-box"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd60380 {[0m
+                              name = [32m"img"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xd5af84 {[0m
+                                  name = [32m"src"[0m[0m,
+                                  value = [32m"images/quad@2x.jpg"[0m[0m
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd37dcc {[0m
+                              name = [32m"div"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xd371b0 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"text"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd0f55c {[0m
+                                  name = [32m"h1"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"Course Listing"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcf25b0 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xced970 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"http://precollege.flatironschool.com"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xced948 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xced934 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"hero"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m"To learn about our Precollege program for high school students, click here."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xa48c74 {[0m
+                      name = [32m"section"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xa473ec {[0m
+                          name = [32m"id"[0m[0m,
+                          value = [32m"course-grid"[0m[0m
+                          }),
+                        [1;34m#(Attr:0xa472d4 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"block"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xa0148c {[0m
+                          name = [32m"section"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0x9ffdf8 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"posts-holder"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x9e62b8 {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x9cdb64 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x891570 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x87f758 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/web_app.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x7ce3a4 {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"Web Development Immersive"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd779cc {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd76f54 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Full-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xe1d82c {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"An intensive, Ruby and Javascript course that teaches the skills necessary to start a career as a full-stack software developer."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xde6fd4 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xde31f4 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xdabfd8 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xdab448 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/web"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xdab434 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd3d844 {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xd3cd54 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd12b80 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd1207c {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/ipads.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcec8b8 {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"iOS Development Immersive"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcce750 {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xcc92f0 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Full-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xc900e0 {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"An in-depth course on the iOS ecosystem that begins with Objective-C and Swift, explores popular iOS frameworks, and culminates in a client project with a local tech company."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xa44f0c {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xa411e0 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xa006f4 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x9fec8c {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/ios"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0x9fec78 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x7f79ac {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x7f4324 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x6d25e0 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x6d0a9c {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/grad_cap.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xca2d6c {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"NYC Web Development Fellowship"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xe1468c {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xe11c48 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Full-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xdc4c7c {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"In partnership with New York City, this free program trains NYC residents without college degrees for careers in web development."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd96944 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd916b0 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xd617e4 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xd60ba0 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/nycfellowship"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xd60b8c {[0m
+                                          name = [32m"target"[0m[0m,
+                                          value = [32m"_blank"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xd60b78 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xcecf5c {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xce9adc {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcbf5ac {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xcbe940 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/web_app.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xc94514 {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"Introduction to Front-End Development"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xa49070 {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xa47b08 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Part-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x9fd314 {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"An introductory course designed to teach students to launch fully responsive websites from scratch using HTML, CSS, JavaScript, and jQuery."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x9cd2a4 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x9cad38 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0x95ef48 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x89065c {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/frontend"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0x890634 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xca245c {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xc83840 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xe09cf0 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xe00894 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/android.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xdc56a4 {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"Android for Developers"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd974ac {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd960e8 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Part-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd57780 {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"An advanced course that trains people with at least one year of software development experience in the skills and tools necessary to work as Android Developers."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd3cc3c {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd37b4c {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xd0f250 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xd0e3f0 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/android"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xd0e3c8 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xca1a70 {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xca0260 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xc75c18 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xc74098 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/web_app.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xa2a2ec {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"Introduction to Data Science"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x9ec208 {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x969f38 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Part-Time"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x85aef8 {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"A part-time course that provides students with the skills they need to make data meaningful."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x7da690 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x7d5c94 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xd76680 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xd9bb60 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/data-science"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xd9bb4c {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xdcc558 {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xdc94c0 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd971f0 {[0m
+                                  name = [32m"img"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd91bc4 {[0m
+                                      name = [32m"src"[0m[0m,
+                                      value = [32m"http://flatiron-web-assets.s3.amazonaws.com/images/courses/electronics.png"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd61e10 {[0m
+                                  name = [32m"h2"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"DIY Electronics - Build Your Own Sound Generating Circuit"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd46dcc {[0m
+                                  name = [32m"em"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd4605c {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"date"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"WORKSHOP"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd0f070 {[0m
+                                  name = [32m"p"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"This Beginners workshop teaches students the fundamentals of electricty, reading circuit diagrams, soldering, and how to build an Atari Punk Console (sound generating circuit) from scratch."[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcf2128 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xced308 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"button-centering-container"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xcbf804 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xcbeb0c {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"/diy-electronics"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xcbeaf8 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"btn-more"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"Learn More"[0m[0m)]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xa2e61c {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xa2d438 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post empty-event"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x96ad70 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x968e30 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"box empty"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"\u00A0"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x86a114 {[0m
+                              name = [32m"article"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x85a9bc {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"post empty-event"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x6e9bc8 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x6e4024 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"box empty"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"\u00A0"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xe0e750 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xe098b8 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"link-row"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xdccbfc {[0m
+                          name = [32m"a"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xdc9eac {[0m
+                              name = [32m"href"[0m[0m,
+                              value = [32m"#"[0m[0m
+                              }),
+                            [1;34m#(Attr:0xdc9e70 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"btn-more btn-top"[0m[0m
+                              })],
+                          children = [ [1;34m#(Text [0m[32m"Back to top"[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xd61dd4 {[0m
+                  name = [32m"footer"[0m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0xd611cc {[0m
+                      name = [32m"id"[0m[0m,
+                      value = [32m"footer"[0m[0m
+                      })],
+                  children = [
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xd46b60 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xd3fc84 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"footer-row"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xd23660 {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xd22760 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"column full"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xcf5b20 {[0m
+                              name = [32m"strong"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xcf4fa4 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"logo"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcd7378 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xcd6194 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"#"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Element:0xcb055c {[0m
+                                      name = [32m"img"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xcad2e4 {[0m
+                                          name = [32m"src"[0m[0m,
+                                          value = [32m"images/logo02.png"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xcad294 {[0m
+                                          name = [32m"alt"[0m[0m,
+                                          value = [32m"The Flatiron School"[0m[0m
+                                          })]
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xa2e860 {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xa2d758 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"column full bottom_mobile_nav"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x9ed0e0 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x96acf8 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"http://go.flatironschool.com/apply"[0m[0m
+                                  }),
+                                [1;34m#(Attr:0x96ace4 {[0m
+                                  name = [32m"target"[0m[0m,
+                                  value = [32m"_blank"[0m[0m
+                                  })],
+                              children = [ [1;34m#(Text [0m[32m"Apply"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m"\u00A0\u00A0\u00A0 "[0m[0m),
+                            [1;34m#(Element:0x845954 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x838678 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"/hire"[0m[0m
+                                  })],
+                              children = [ [1;34m#(Text [0m[32m"Partner"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m"\u00A0\u00A0\u00A0 "[0m[0m),
+                            [1;34m#(Element:0xdaf41c {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xdae9cc {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"https://after.flatironschool.com/"[0m[0m
+                                  }),
+                                [1;34m#(Attr:0xdae9b8 {[0m
+                                  name = [32m"target"[0m[0m,
+                                  value = [32m"_blank"[0m[0m
+                                  })],
+                              children = [ [1;34m#(Text [0m[32m"Precollege"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m"\u00A0\u00A0\u00A0 "[0m[0m),
+                            [1;34m#(Element:0xe11554 {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xe0f8d0 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"http://blog.flatironschool.com/"[0m[0m
+                                  }),
+                                [1;34m#(Attr:0xe0f894 {[0m
+                                  name = [32m"target"[0m[0m,
+                                  value = [32m"_blank"[0m[0m
+                                  })],
+                              children = [ [1;34m#(Text [0m[32m"Blog"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m"\u00A0\u00A0\u00A0 "[0m[0m),
+                            [1;34m#(Element:0xda9abc {[0m
+                              name = [32m"a"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xda5660 {[0m
+                                  name = [32m"href"[0m[0m,
+                                  value = [32m"/contact"[0m[0m
+                                  })],
+                              children = [ [1;34m#(Text [0m[32m"Contact"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xd56420 {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xd53428 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"column full"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd29d80 {[0m
+                              name = [32m"strong"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xd28ee4 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"title"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0xd0a750 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd059e4 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"/contact"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"Contact"[0m[0m)]
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xcd6b30 {[0m
+                              name = [32m"address"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcbb7e0 {[0m
+                                  name = [32m"span"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"11 Broadway, Suite 260"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xc953c4 {[0m
+                                  name = [32m"span"[0m[0m,
+                                  children = [
+                                    [1;34m#(Text [0m[32m"New York, NY 10004"[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xa3ff48 {[0m
+                              name = [32m"dl"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xa2e068 {[0m
+                                  name = [32m"dd"[0m[0m,
+                                  children = [
+                                    [1;34m#(Element:0xa05910 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xa00dfc {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"tel:+18889580569"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"1-888-958-0569"[0m[0m)]
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x9b1a18 {[0m
+                                  name = [32m"dd"[0m[0m,
+                                  children = [
+                                    [1;34m#(Element:0x985bac {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x984194 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"mailto:info@flatironschool.com"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"info@flatironschool.com"[0m[0m)]
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x7d0424 {[0m
+                                  name = [32m"dd"[0m[0m,
+                                  children = [
+                                    [1;34m#(Element:0x6eaf3c {[0m
+                                      name = [32m"br"[0m[0m
+                                      }),
+                                    [1;34m#(Text [0m[32m"For press inquiries: "[0m[0m),
+                                    [1;34m#(Element:0xd76fe0 {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xd765b8 {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"mailto:press@flatironschool.com"[0m[0m
+                                          })],
+                                      children = [
+                                        [1;34m#(Text [0m[32m"press@flatironschool.com"[0m[0m)]
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xdeb5ac {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xdea74c {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"column"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xdbd0e4 {[0m
+                              name = [32m"strong"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xdb99a8 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"title"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0xd909b8 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd90224 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"http://blog.flatironschool.com/"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xd90210 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m"From Our Blog"[0m[0m)]
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd29dbc {[0m
+                              name = [32m"ul"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd127d4 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd0fafc {[0m
+                                      name = [32m"id"[0m[0m,
+                                      value = [32m"top_blog_link"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xce9b18 {[0m
+                                  name = [32m"div"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xce8d58 {[0m
+                                      name = [32m"id"[0m[0m,
+                                      value = [32m"bottom_blog_link"[0m[0m
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xca5198 {[0m
+                          name = [32m"div"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xca457c {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"column"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xc7ce78 {[0m
+                              name = [32m"strong"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0xc77360 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"title"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Element:0xa2de24 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xa2d1a4 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"https://twitter.com/flatironschool"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xa2d190 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m"@FLATIRONSCHOOL"[0m[0m)]
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x9a621c {[0m
+                              name = [32m"ul"[0m[0m,
+                              attributes = [
+                                [1;34m#(Attr:0x99b448 {[0m
+                                  name = [32m"class"[0m[0m,
+                                  value = [32m"twitter"[0m[0m
+                                  })],
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x8382b8 {[0m
+                                  name = [32m"li"[0m[0m,
+                                  children = [
+                                    [1;34m#(Element:0x7f2fd8 {[0m
+                                      name = [32m"div"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x7f20d8 {[0m
+                                          name = [32m"id"[0m[0m,
+                                          value = [32m"tweet1"[0m[0m
+                                          })]
+                                      })]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xd76180 {[0m
+                                  name = [32m"ul"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xd9b728 {[0m
+                                      name = [32m"class"[0m[0m,
+                                      value = [32m"twitter"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xd9b714 {[0m
+                                      name = [32m"style"[0m[0m,
+                                      value = [32m"display:none"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xe0e55c {[0m
+                                      name = [32m"a"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xe09534 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"twitter-timeline"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xe09520 {[0m
+                                          name = [32m"data-dnt"[0m[0m,
+                                          value = [32m"true"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xe0950c {[0m
+                                          name = [32m"href"[0m[0m,
+                                          value = [32m"https://twitter.com/FlatironSchool"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xe094f8 {[0m
+                                          name = [32m"data-chrome"[0m[0m,
+                                          value = [32m"nofooter transparent noborders noheader"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xe094e4 {[0m
+                                          name = [32m"data-tweet-limit"[0m[0m,
+                                          value = [32m"2"[0m[0m
+                                          }),
+                                        [1;34m#(Attr:0xe09494 {[0m
+                                          name = [32m"data-widget-id"[0m[0m,
+                                          value = [32m"536967261408727040"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              })]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xd12874 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xd0fcc8 {[0m
+                          name = [32m"class"[0m[0m,
+                          value = [32m"bar"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xcf28bc {[0m
+                          name = [32m"ul"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xcede5c {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"social-networks"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xcce73c {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xcb488c {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xcb1380 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"https://twitter.com/FlatironSchool"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xcb136c {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xa4022c {[0m
+                                      name = [32m"span"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xa3e2d8 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"icon-twitter"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x968890 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0x9c6148 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0x9c4ac8 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"https://www.facebook.com/FlatironSchool"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0x9c4aa0 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0x7d6e14 {[0m
+                                      name = [32m"span"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x7d3cc8 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"icon-facebook"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xe148e4 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xdcd0ac {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xdcc2ec {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"http://instagram.com/flatironschool"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xdcc2d8 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xd32214 {[0m
+                                      name = [32m"span"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xd292e0 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"icon-instagram"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xc98330 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xc76294 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xa41474 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"https://github.com/flatiron-school"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xa41410 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0x7d75a8 {[0m
+                                      name = [32m"span"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0x7a72a4 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"icon-github2"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0x9d001c {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m" "[0m[0m),
+                                [1;34m#(Element:0xa3f6d8 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xa3b13c {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"http://www.quora.com/Flatiron-School"[0m[0m
+                                      }),
+                                    [1;34m#(Attr:0xa3b114 {[0m
+                                      name = [32m"target"[0m[0m,
+                                      value = [32m"_blank"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m" "[0m[0m),
+                                    [1;34m#(Element:0xcce764 {[0m
+                                      name = [32m"span"[0m[0m,
+                                      attributes = [
+                                        [1;34m#(Attr:0xcfb354 {[0m
+                                          name = [32m"class"[0m[0m,
+                                          value = [32m"icon-quora"[0m[0m
+                                          })]
+                                      }),
+                                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                                  }),
+                                [1;34m#(Text [0m[32m" "[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xdc0b54 {[0m
+                          name = [32m"ul"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xdb99e4 {[0m
+                              name = [32m"class"[0m[0m,
+                              value = [32m"info"[0m[0m
+                              })],
+                          children = [
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xe2660c {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Text [0m[32m"\u00A92014 THE FLATIRON SCHOOl"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xdaf778 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [ [1;34m#(Text [0m[32m"Made in NYC"[0m[0m)]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xd44838 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Element:0xc83408 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xc82a80 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"/careers"[0m[0m
+                                      })],
+                                  children = [ [1;34m#(Text [0m[32m"CAREERS"[0m[0m)]
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m),
+                            [1;34m#(Element:0xdfbf38 {[0m
+                              name = [32m"li"[0m[0m,
+                              children = [
+                                [1;34m#(Element:0xdf2154 {[0m
+                                  name = [32m"a"[0m[0m,
+                                  attributes = [
+                                    [1;34m#(Attr:0xdf0f20 {[0m
+                                      name = [32m"href"[0m[0m,
+                                      value = [32m"/privacy-policy"[0m[0m
+                                      })],
+                                  children = [
+                                    [1;34m#(Text [0m[32m"PRIVACY POLICY"[0m[0m)]
+                                  })]
+                              }),
+                            [1;34m#(Text [0m[32m" "[0m[0m)]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd84780 {[0m
+              name = [32m"script"[0m[0m,
+              children = [
+                [1;34m#(CDATA [0m[32m"\n    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\n    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\n    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\n    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');\n\n    ga('create', 'UA-33578770-1', 'auto');\n    ga('send', 'pageview');\n    ga('send', 'newsitepageview');\n  "[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd68ad0 {[0m
+              name = [32m"script"[0m[0m,
+              children = [
+                [1;34m#(CDATA [0m[32m"\n    (function(d,s,i,r) {\n      if (d.getElementById(i)){return;}\n      var n=d.createElement(s),e=d.getElementsByTagName(s)[0];\n      n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/69751.js';\n      e.parentNode.insertBefore(n, e);\n    })(document,\"script\",\"hs-analytics\",300000);\n  "[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0xd50368 {[0m
+              name = [32m"div"[0m[0m,
+              attributes = [
+                [1;34m#(Attr:0xd4ee50 {[0m
+                  name = [32m"style"[0m[0m,
+                  value = [32m"display:none;"[0m[0m
+                  })],
+              children = [
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xd327b4 {[0m
+                  name = [32m"script"[0m[0m,
+                  children = [
+                    [1;34m#(CDATA [0m[32m"\n    /* <![CDATA[ */\n    var google_conversion_id = 962281709;\n    var google_custom_params = window.google_tag_params;\n    var google_remarketing_only = true;\n    /* ]]> */\n    "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xd0f638 {[0m
+                  name = [32m"script"[0m[0m,
+                  attributes = [
+                    [1;34m#(Attr:0xd0b2b8 {[0m
+                      name = [32m"src"[0m[0m,
+                      value = [32m"//www.googleadservices.com/pagead/conversion.js"[0m[0m
+                      })],
+                  children = [ [1;34m#(CDATA [0m[32m" "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m),
+                [1;34m#(Element:0xce0680 {[0m
+                  name = [32m"noscript"[0m[0m,
+                  children = [
+                    [1;34m#(Text [0m[32m" "[0m[0m),
+                    [1;34m#(Element:0xcd22b0 {[0m
+                      name = [32m"div"[0m[0m,
+                      attributes = [
+                        [1;34m#(Attr:0xcce570 {[0m
+                          name = [32m"style"[0m[0m,
+                          value = [32m"display:inline;"[0m[0m
+                          })],
+                      children = [
+                        [1;34m#(Text [0m[32m" "[0m[0m),
+                        [1;34m#(Element:0xca8104 {[0m
+                          name = [32m"img"[0m[0m,
+                          attributes = [
+                            [1;34m#(Attr:0xca5300 {[0m
+                              name = [32m"height"[0m[0m,
+                              value = [32m"1"[0m[0m
+                              }),
+                            [1;34m#(Attr:0xca52ec {[0m
+                              name = [32m"width"[0m[0m,
+                              value = [32m"1"[0m[0m
+                              }),
+                            [1;34m#(Attr:0xca52d8 {[0m
+                              name = [32m"style"[0m[0m,
+                              value = [32m"border-style:none;"[0m[0m
+                              }),
+                            [1;34m#(Attr:0xca52c4 {[0m
+                              name = [32m"alt"[0m[0m,
+                              value = [32m""[0m[0m
+                              }),
+                            [1;34m#(Attr:0xca52b0 {[0m
+                              name = [32m"src"[0m[0m,
+                              value = [32m"//googleads.g.doubleclick.net/pagead/viewthroughconversion/962281709/?value=0&guid=ON&script=0"[0m[0m
+                              })]
+                          }),
+                        [1;34m#(Text [0m[32m" "[0m[0m)]
+                      }),
+                    [1;34m#(Text [0m[32m" "[0m[0m)]
+                  }),
+                [1;34m#(Text [0m[32m" "[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m),
+            [1;34m#(Element:0x968da4 {[0m
+              name = [32m"script"[0m[0m,
+              children = [
+                [1;34m#(CDATA [0m[32m"\n    setTimeout(function(){var a=document.createElement(\"script\");\n    var b=document.getElementsByTagName(\"script\")[0];\n    a.src=document.location.protocol+\"//script.crazyegg.com/pages/scripts/0024/3946.js?\"+Math.floor(new Date().getTime()/3600000);\n    a.async=true;a.type=\"text/javascript\";b.parentNode.insertBefore(a,b)}, 1);\n  "[0m[0m)]
+              }),
+            [1;34m#(Text [0m[32m" "[0m[0m)]
+          }),
+        [1;34m#(Text [0m[32m" "[0m[0m)]
+      })]
+  })
