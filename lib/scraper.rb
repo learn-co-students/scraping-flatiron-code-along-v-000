@@ -1,22 +1,52 @@
 require 'nokogiri'
 require 'open-uri'
+require 'pry'
 
 require_relative './course.rb'
 
 class Scraper
-  
-    def print_courses
-    self.make_courses
-    Course.all.each do |course|
-      if course.title
-        puts "Title: #{course.title}"
-        puts "  Schedule: #{course.schedule}"
-        puts "  Description: #{course.description}"
+
+    def get_page
+      doc = Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scraping/courses"))
+
+      #doc.css(".post").each do |post|
+      #  course = Course.new
+      #  course.title = post.css("h2").text
+      #  course.schedule = post.css(".date").text
+      #  course.description = post.css("p").text
+      #  binding.pry
+      #end
+    end
+
+    def get_courses
+      self.get_page.css(".post")
+    end
+
+    def make_courses
+        self.get_courses.each do |post|
+        course = Course.new
+        course.title = post.css("h2").text
+        course.schedule = post.css(".date").text
+        course.description = post.css("p").text
       end
     end
-  end
-  
+
+    def print_courses
+    self.make_courses
+      Course.all.each do |course|
+        if course.title
+          puts "Title: #{course.title}"
+          puts "  Schedule: #{
+          course.schedule}"
+          puts "  Description: #{course.description}"
+        end
+      end
+    end
+    Scraper.new.get_page
 end
 
-
-
+#ruby lib/scraper.rb how to run ruby on the rb file
+#doc how to see xcode
+#rspec spec/scraper_spec.rb how to run test
+#binding.pry everything to see how they work.
+#next blog pry everything
