@@ -45,5 +45,6 @@ class Scraper
 end
 
 Scraper.new.get_page
+Scraper.new.print_courses
 
 #rspec spec/scraper_spec.rb
