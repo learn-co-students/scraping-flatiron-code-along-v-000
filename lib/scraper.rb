@@ -14,13 +14,14 @@ class Scraper
 
   def get_courses
     self.get_page.css(".post")
+    # binding.pry
   end
 
   def make_courses
     self.get_courses.each do |course_xml|
       course = Course.new
       course.title = course_xml.css("h2").text
-      course.schedule = course_xml.css("class").text
+      course.schedule = course_xml.css(".date").text
       course.description = course_xml.css("p").text
     end
   end
@@ -37,3 +38,4 @@ class Scraper
   end
 
 end
+Scraper.new.print_courses
