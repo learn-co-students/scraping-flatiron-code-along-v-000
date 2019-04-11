@@ -1,11 +1,11 @@
 require_relative './spec_helper'
 require_relative '../lib/scraper.rb'
 
-puts describe "Scraper" do
+describe "Scraper" do
 
   let(:scraper) {Scraper.new}
 
-  puts describe "#get_page" do
+ describe "#get_page" do
     it "uses Nokogiri to get the HTML from a web page" do
       doc = scraper.get_page
       expect{scraper.get_page}.to_not raise_error
@@ -17,7 +17,7 @@ puts describe "Scraper" do
     Course.reset_all
   end
 
-  puts describe "#get_courses" do
+ describe "#get_courses" do
     it "uses a CSS selector to return an array of Nokogiri XML elements representing the courses described on the web page we are scraping" do
       course_offerings = scraper.get_courses
       expect(course_offerings.class).to be(Nokogiri::XML::NodeSet)
@@ -29,7 +29,7 @@ puts describe "Scraper" do
     end
   end
 
-  puts describe "#make_courses" do
+   describe "#make_courses" do
     it "iterates over the courses array returned by #get_courses and creates a new Course instance out of each array element." do
       Course.reset_all
       courses = scraper.make_courses
