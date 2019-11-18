@@ -1,43 +1,29 @@
-require 'nokogiri'
-require 'open-uri'
+require 'nokogiri' # Ruby Gem; turn giant HTML string into nested objects
+require 'open-uri' # Ruby module; allows HTTP requests
+
 require 'pry'
 
 require_relative './course.rb'
 
-class Scraper
+class Scraper #parse a web page's HTML & pull pertinent data
+  # Use Nokogiri
+  # Use Open-Uri
+  # Use scraped DATA to INSTANTIATE instances of COURSEclass
 
   def get_page
     doc = Nokogiri::HTML(open("http://learn-co-curriculum.github.io/site-for-scraping/courses"))
+    #OPEN is an OPEN-URI method
+
+    binding.pry
+
   end
 
-  def get_courses
-    self.get_page.css(".post")
-  end
 
-  def make_courses
-    self.get_courses.each do |post|
-      course = Course.new
-      course.title = post.css("h2").text
-      course.schedule = post.css(".date").text
-      course.description = post.css("p").text
-    end
-  end
 
-    def print_courses
-      self.make_courses
 
-      Course.all.each do |course|
 
-        if course.title
-            puts "Title: #{course.title}"
-            puts "  Schedule: #{course.schedule}"
-            puts "  Description: #{course.description}"
-        end
 
-      end
 
-    end
+end #<----CLASS END
 
-end
-
-Scraper.new.print_courses
+Scraper.new.get_page
