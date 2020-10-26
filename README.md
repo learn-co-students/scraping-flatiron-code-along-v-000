@@ -558,5 +558,3 @@ Scraper.new.print_courses
 ```
 
 [site]: http://learn-co-curriculum.github.io/site-for-scraping/courses
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/scraping-flatiron-code-along'>Scraping Lab</a> on Learn.co and start learning to code for free.</p>
