@@ -188,7 +188,7 @@ class Scraper
 
 end
 
-Scraper.new.get_page
+
 ```
 
 Once your file looks like the code above, run the file with `q` in your terminal. Once you hit your binding, type the `doc`
