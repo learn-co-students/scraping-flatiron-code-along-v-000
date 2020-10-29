@@ -191,8 +191,7 @@ end
 Scraper.new.get_page
 ```
 
-Once your file looks like the code above, run the file with `ruby
-lib/scraper.rb` in your terminal. Once you hit your binding, type the `doc`
+Once your file looks like the code above, run the file with `q` in your terminal. Once you hit your binding, type the `doc`
 variable into the terminal and you should see the HTML document, retrieved for
 us by Nokogiri and open-uri. You should see something like this:
 
