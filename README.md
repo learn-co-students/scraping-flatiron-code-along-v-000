@@ -1,17 +1,17 @@
-# Object Oriented Scraping
+# Object-Oriented Scraping
 
 ## Objectives
 
 * Scrape a web page's HTML using Nokogiri.
 * Use scraped data to give attributes to Ruby objects.
-* Write an object oriented Scraper class.
+* Write an object-oriented Scraper class.
 
 ## Overview
 
 One of the most common use-cases for web scraping involves you, the programmer,
 scraping data that you will then use to instantiate your own Ruby objects. In
 this lab, we'll be scraping a static site that displays the course offerings of
-the Flatiron School. We'll be taking the scraped data to create our own `Course`
+the Flatiron School. We'll be using the scraped data to create our own `Course`
 objects. Each instance of the `Course` class will have a series of attributes.
 The values of each of these attributes will be scraped from the website.
 
@@ -25,7 +25,7 @@ responsible for taking that data and using it to instantiate instances of the
 ***Fork and clone this lab to get started!***
 
 Before we build our `Scraper`, we'll build the `Course` class. We know that the
-purpose of our scrape is to get data to assign to the attributes of `Course`
+purpose of our scraper is to get data to assign to the attributes of `Course`
 class instances.
 
 Let's take a look at the site we'll be scraping in order to get a sense of what
@@ -66,9 +66,9 @@ Go ahead and run the test suite again. Now we should be passing all of our
 instance method tests! But not our class method tests...
 
 Let's write the `.all` and `.reset_all` class methods. You should be familiar
-with the usage of the `.all` class method at this point––remember that every
-time an instance of the class is initialized, we should push it into the `@@all`
-class variable. Get these tests passing with the following code:
+with the usage of the `.all` class method at this point &mdash; remember that
+every time an instance of the class is initialized, we should push it into the
+`@@all` class variable. Get these tests passing with the following code:
 
 ```ruby
 class Course
@@ -98,7 +98,7 @@ to write our `Scraper`!
 ## Code Along II: The `Scraper` Class
 
 Start by running the `Scraper` specs with the `rspec spec/scraper_spec.rb` line
-in your terminal. You should see failing tests and describe a number of methods.
+in your terminal. You should see failing tests that describe several methods.
 Let's run through the desired behavior of each method:
 
 ##### `#get_page`
@@ -159,7 +159,7 @@ end
 ```
 
 Notice that we are already requiring Nokogiri, open-uri and Pry at the top of
-the file. We are ready to us Nokogiri and open-uri to get our HTML. Add the
+the file. We are ready to use Nokogiri and open-uri to get our HTML. Add the
 following line to your `.get_page` method:
 
 ```ruby
@@ -198,10 +198,7 @@ us by Nokogiri and open-uri. You should see something like this:
 
 ![retrieved doc](http://readme-pics.s3.amazonaws.com/Screen%20Shot%202015-08-20%20at%204.25.06%20PM.png)
 
->Note: When you hit the pry, you may end up with a prompt that looks like this
->`:`. That just means there's a lot of text and you can scroll up and down using
->the arrow keys. If you need to escape this prompt so you can type in `doc`,
->then you simply have to press `q` or the `esc` key.
+> Note: When you hit the pry, you may end up with a prompt that looks like this `:`. That just means there's a lot of text and you can scroll up and down using the arrow keys. If you need to escape this prompt so you can type in `doc`, then you simply have to press `q` or the `esc` key.
 
 If you scroll down in your terminal, you should see more and more of the HTML
 document.
@@ -275,10 +272,10 @@ with our "inspect element" tool.
 #### Scraping Course Title
 
 Go back to the [site][] and open up the element inspector again. Click the
-symbol in the upper left of your console (it looks like an arrow cursor pointing
-into a box) to hover over the title of the first course offering. You should see
-a tag appear when you hover over the course title with this tool. The tag should
-say `h2 750.428 x 28px`.
+selector tool in the upper left of your console (it looks like an arrow cursor
+pointing into a box) then hover over the title of the first course offering. You
+should see a tag appear when you hover over the course title with this tool. The
+tag should say `h2 750.428 x 28px`.
 
 We don't care about the height and width but we *do* care about the selector,
 `h2`.
@@ -313,10 +310,10 @@ the same for schedule and description.
 
 #### Scraping Course Schedule
 
-Go back to the [site][] and open up the element inspector again. Use the
-magnifying glass symbol to hover over the schedule of the first course offering.
-You should see a tag appear when you hover over the schedule (the line that
-reads "Part-Time" or "Full-Time") that reads `em.date ...`
+Go back to the [site][] and open up the element inspector again. Click the
+selector tool and hover over the schedule of the first course offering. You
+should see a tag appear when you hover over the schedule (the line that reads
+"Part-Time" or "Full-Time") that reads `em.date ...`
 
 It looks like the schedule element has a class of "date". Let's use that CSS
 selector to grab the date of the first course.
@@ -338,9 +335,9 @@ get that description.
 
 #### Scraping Course Description
 
-Once again, use the magnifying glass to hover over the first course's
-description. You should see a tag appear with the following text: `p 750. blah
-blah some pixels`. Okay, it looks like we have our selector: the `p` tag.
+Once again, use the selector tool to hover over the first course's description.
+You should see a tag appear with the following text: `p 750. blah blah some
+pixels`. Okay, it looks like we have our selector: the `p` tag.
 
 Try out the following line in your console:
 
